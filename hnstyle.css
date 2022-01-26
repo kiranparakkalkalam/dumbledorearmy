@@ -11,3 +11,10 @@
     background-color: #f6f6ef;
 
 }
+.image_class {
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px;
+    border-color: white;
+    border-style: solid
+}
